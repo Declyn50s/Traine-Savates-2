@@ -77,18 +77,6 @@ export function JoinClubPage() {
         </div>
 
         <div className="space-y-4 text-sm text-slate-700">
-          <div className="rounded-3xl border border-brand-light bg-[#fff7f2] p-5 shadow-sm">
-            <h3 className="text-sm font-semibold text-slate-900">Cotisations indicatives</h3>
-            <ul className="mt-2 space-y-1 text-sm">
-              <li>• Adulte : env. CHF 120.- / an</li>
-              <li>• Junior : env. CHF 70.- / an</li>
-              <li>• Famille : sur demande</li>
-            </ul>
-            <p className="mt-3 text-xs text-slate-600">
-              Les montants exacts sont confirmés lors de votre adhésion. L'assurance accident
-              reste à charge des membres.
-            </p>
-          </div>
           <div className="rounded-3xl border border-slate-200 bg-white p-5 text-sm text-slate-700 shadow-sm">
             <h3 className="text-sm font-semibold text-slate-900">
               Une ambiance qui ressemble au logo
